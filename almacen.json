@@ -1,0 +1,120 @@
+{
+    "usuarios": [
+      {
+        "id": "000000001",
+        "username": "Viviana Poblete",
+        "password": "duoc12345",
+        "email": "profevivi@email.com",
+        "isactive": true
+      },
+      {
+        "id": "000000002",
+        "username": "Julian Corvalan",
+        "password": "duoc12345",
+        "email": "profejulian@email.com",
+        "isactive": true
+      },
+      {
+        "id": "00000003",
+        "username": "Francisco Valdivieso",
+        "password": "duoc12345",
+        "email": "profefran@email.com",
+        "isactive": true
+      },
+      {
+        "id": "198446017",
+        "username": "Jordan",
+        "password": "jordanguevara",
+        "email": "jordanguevara@email.com",
+        "isactive": true
+      },
+      {
+        "id": "20000001",
+        "username": "juanito",
+        "password": "duoc12345",
+        "email": "juanito@email.com",
+        "isactive": true
+      },
+      {
+        "id": "20000003",
+        "username": "Jordan",
+        "email": "jordan@duocuc.cl",
+        "password": "duoc1234",
+        "isactive": true
+      },
+      {
+        "id": "30000000",
+        "username": "juan",
+        "email": "juan@email.com",
+        "password": "duoc12345",
+        "isactive": true
+      },
+      {
+        "id": "1000000",
+        "username": "pepe",
+        "email": "pepe@email.com",
+        "password": "duoc12345",
+        "isactive": true
+      },
+      {
+        "id": "198446017",
+        "username": "jordan",
+        "email": "jordan@duocuc.cl",
+        "password": "duoc12345",
+        "isactive": true
+      }
+    ],
+    "asignaturas": [
+      {
+        "id": "1",
+        "nombre": "Arquitectura",
+        "descripcion": "Arquitectura de Software.",
+        "profesor": "Julian Corvalan",
+        "fecha": "2024-10-30",
+        "imagen": "https://www.aicad.es/asset/img/3/el-futuro-de-la-arquitectura-de-software-tendencias-a-tener-en-cuenta-100.jpeg"
+      },
+      {
+        "id": "2",
+        "nombre": "Calidad de Software",
+        "descripcion": "Fases del proceso de desarrollo.",
+        "profesor": "Francisco Valdivieso",
+        "fecha": "2024-11-05",
+        "imagen": "https://www.verity.cl/wp-content/uploads/2022/09/importancia-de-implementar-calidad-de-software.jpg"
+      },
+      {
+        "id": "3",
+        "nombre": "Estadistica Descriptiva",
+        "descripcion": "Resolver situaciones problemáticas.",
+        "profesor": "Fernanda Alfaro",
+        "fecha": "2024-11-12",
+        "imagen": "https://www.oas.org/ext/Portals/14/EasyDNNNews/663/images/Image-300-300-p-L-97.jpg"
+      },
+      {
+        "id": "4",
+        "nombre": "Programacion de Aplicaciones Moviles",
+        "descripcion": "Mediante actividades de aprendizaje progresivas desarrollarán una aplicación móvil.",
+        "profesor": "Viviana Poblete",
+        "fecha": "2024-11-19",
+        "imagen": "https://isil.pe/blog/wp-content/uploads/2023/05/tipos-de-app-moviles.png"
+      },
+      {
+        "id": "5",
+        "nombre": "Ingles Intermedio",
+        "descripcion": "COMUNICARSE DE FORMA ORAL Y ESCRITA USANDO EL IDIOMA INGLÉS.",
+        "profesor": "Alexander Ibarra",
+        "fecha": "2024-11-26",
+        "imagen": "https://mediraformacion.es/wp-content/uploads/2020/04/INGLES-INTERMEDIO.png"
+      },
+      {
+        "id": "6",
+        "nombre": "Etica",
+        "descripcion": "Evaluar desde el punto de vista ético situaciones de la vida laboral.",
+        "profesor": "Edith Hernandez",
+        "fecha": "2024-12-03",
+        "imagen": "https://www.buscador.com/wp-content/uploads/2021/07/definici%C3%B3n-de-%C3%A9tica.jpg"
+      }
+    ],
+    "justificaciones": [
+      {}
+    ]
+  }
